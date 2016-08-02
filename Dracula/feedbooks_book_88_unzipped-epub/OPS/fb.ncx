@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1"
+     xml:lang="en"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+
+    <meta name="dtb:uid" content="7bb6a6ca-4f5c-11e6-a727-4c72b9252ec6"/>
+
+    <meta name="dtb:depth" content="1"/>
+
+    <meta name="dtb:totalPageCount" content="0"/>
+
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+
+ <docTitle>
+   <text>Dracula</text>
+ </docTitle>
+
+ <docAuthor>
+   <text>Stoker, Bram</text>
+ </docAuthor>
+
+    <navMap>
+
+    <navPoint class="titlepage" id="level1-titlepage" playOrder="1">
+      <navLabel><text>Title</text></navLabel>
+      <content src="title.xml"/>
+    </navPoint>
+
+    <navPoint class="about" id="level1-about" playOrder="2">
+      <navLabel><text>About</text></navLabel>
+      <content src="about.xml"/>
+    </navPoint>
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4140" playOrder="3">
+  <navLabel><text>Chapter 1 - Jonathan Harker&#39;s Journal</text></navLabel> 
+  <content src="main0.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4142" playOrder="4">
+  <navLabel><text>Chapter 2 - Jonathan Harker&#39;s Journal Continued</text></navLabel> 
+  <content src="main1.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4144" playOrder="5">
+  <navLabel><text>Chapter 3 - Jonathan Harker&#39;s Journal Continued</text></navLabel> 
+  <content src="main2.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4146" playOrder="6">
+  <navLabel><text>Chapter 4 - Jonathan Harker&#39;s Journal Continued</text></navLabel> 
+  <content src="main3.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4148" playOrder="7">
+  <navLabel><text>Chapter 5 - Letter from Miss Mina Murray to Miss Lucy Westenra</text></navLabel> 
+  <content src="main4.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4150" playOrder="8">
+  <navLabel><text>Chapter 6 - Mina Murray&#39;s Journal</text></navLabel> 
+  <content src="main5.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4152" playOrder="9">
+  <navLabel><text>Chapter 7 - Cutting from &quot;The Dailygraph,&quot; 8 August</text></navLabel> 
+  <content src="main6.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4154" playOrder="10">
+  <navLabel><text>Chapter 8 - Mina Murray&#39;s Journal</text></navLabel> 
+  <content src="main7.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4156" playOrder="11">
+  <navLabel><text>Chapter 9 - Letter, Mina Harker to Lucy Westenra</text></navLabel> 
+  <content src="main8.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4158" playOrder="12">
+  <navLabel><text>Chapter 10 - Letter, Dr. Seward to Hon. Arthur Holmwood</text></navLabel> 
+  <content src="main9.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4160" playOrder="13">
+  <navLabel><text>Chapter 11 - Lucy Westenra&#39;s Diary</text></navLabel> 
+  <content src="main10.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4162" playOrder="14">
+  <navLabel><text>Chapter 12 - Dr. Seward&#39;s Diary</text></navLabel> 
+  <content src="main11.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4164" playOrder="15">
+  <navLabel><text>Chapter 13 - Dr. Seward&#39;s Diary—cont.</text></navLabel> 
+  <content src="main12.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4166" playOrder="16">
+  <navLabel><text>Chapter 14 - Mina Harker&#39;s Journal</text></navLabel> 
+  <content src="main13.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4168" playOrder="17">
+  <navLabel><text>Chapter 15 - Dr. Seward&#39;s Diary—cont.</text></navLabel> 
+  <content src="main14.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4170" playOrder="18">
+  <navLabel><text>Chapter 16 - Dr. Seward&#39;s Diary—cont.</text></navLabel> 
+  <content src="main15.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4172" playOrder="19">
+  <navLabel><text>Chapter 17 - Dr. Seward&#39;s Diary—cont.</text></navLabel> 
+  <content src="main16.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4174" playOrder="20">
+  <navLabel><text>Chapter 18 - Dr. Seward&#39;s Diary</text></navLabel> 
+  <content src="main17.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4176" playOrder="21">
+  <navLabel><text>Chapter 19 - Jonathan Harker&#39;s Journal</text></navLabel> 
+  <content src="main18.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4178" playOrder="22">
+  <navLabel><text>Chapter 20 - Jonathan Harker&#39;s Journal</text></navLabel> 
+  <content src="main19.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4180" playOrder="23">
+  <navLabel><text>Chapter 21 - Dr. Seward&#39;s Diary</text></navLabel> 
+  <content src="main20.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4182" playOrder="24">
+  <navLabel><text>Chapter 22 - Jonathan Harker&#39;s Journal</text></navLabel> 
+  <content src="main21.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4184" playOrder="25">
+  <navLabel><text>Chapter 23 - Dr. Seward&#39;s Diary</text></navLabel> 
+  <content src="main22.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4186" playOrder="26">
+  <navLabel><text>Chapter 24 - Dr. Seward&#39;s Phonograph Diary</text></navLabel> 
+  <content src="main23.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4188" playOrder="27">
+  <navLabel><text>Chapter 25 - Dr. Seward&#39;s Diary</text></navLabel> 
+  <content src="main24.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4190" playOrder="28">
+  <navLabel><text>Chapter 26 - Dr. Seward&#39;s Diary</text></navLabel> 
+  <content src="main25.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+        
+
+
+
+
+
+
+
+
+  
+
+
+<navPoint class="chapter" id="chap4192" playOrder="29">
+  <navLabel><text>Chapter 27 - Mina Harker&#39;s Journal</text></navLabel> 
+  <content src="main26.xml"/>
+    
+  
+    
+    
+  
+</navPoint>
+
+
+
+  </navMap>
+
+
+</ncx>

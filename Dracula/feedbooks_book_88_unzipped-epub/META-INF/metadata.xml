@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://www.w3.org/2005/Atom">
+<title>Dracula</title>
+<id>http://www.feedbooks.com/book/88</id>
+<author>
+  <name>Bram Stoker</name>
+  <uri>http://www.feedbooks.com/author/31</uri>
+</author>
+<published>2007-01-02T17:40:04Z</published>
+<updated>2015-08-09T21:56:21Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>1897</dcterms:issued>
+<category term="FBFIC000000" label="Fiction" scheme="http://www.feedbooks.com/categories"/>
+<category term="FBFIC015000" label="Horror" scheme="http://www.feedbooks.com/categories"/>
+<summary>Dracula is an 1897 novel by Irish author Bram Stoker, featuring as its primary antagonist the vampire Count Dracula.
+Dracula has been attributed to many literary genres including vampire literature, horror fiction, the gothic novel and invasion l...</summary>
+<dcterms:extent>160,363 words</dcterms:extent>
+<dcterms:source>Wikisource</dcterms:source>
+<link type="text/html" title="View on Feedbooks" rel="alternate" href="http://generation.feedbooks.com/book/88"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="http://generation.feedbooks.com/book/88.epub"/>
+<link type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" href="http://generation.feedbooks.com/book/88.mobi"/>
+<link type="application/pdf" rel="http://opds-spec.org/acquisition" href="http://generation.feedbooks.com/book/88.pdf"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="http://covers.feedbooks.net/book/88.jpg?size=large&amp;t=1439157381"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="http://covers.feedbooks.net/book/88.jpg?t=1439157381"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="From the same author" rel="http://www.feedbooks.com/opds/same_author" href="http://generation.feedbooks.com/author/31/books/top.atom?lang=en"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=navigation" title="Categories for this book" rel="related" href="http://generation.feedbooks.com/book/88/categories.atom"/>
+<link type="application/atom+xml;profile=opds-catalog;kind=navigation" title="Reading lists for this book" rel="related" href="http://generation.feedbooks.com/book/88/lists.atom"/>
+<link type="application/atom+xml" title="Comments for this book (9)" rel="replies" thr:count="9" thr:updated="2016-06-24T06:11:59Z" href="http://generation.feedbooks.com/book/88/comments.atom"/>
+<link type="text/html" title="Comments for this book (9)" rel="replies" thr:count="9" thr:updated="2016-06-24T06:11:59Z" href="http://generation.feedbooks.com/book/88/comments"/>
+<content type="html">&lt;p&gt;Dracula is an 1897 novel by Irish author Bram Stoker, featuring as its primary antagonist the vampire Count Dracula.
+&lt;br /&gt;Dracula has been attributed to many literary genres including vampire literature, horror fiction, the gothic novel and invasion literature. Structurally it is an epistolary novel, that is, told as a series of diary entries and letters. Literary critics have examined many themes in the novel, such as the role of women in Victorian culture, conventional and conservative sexuality, immigration, colonialism, postcolonialism and folklore. Although Stoker did not invent the vampire, the novel's influence on the popularity of vampires has been singularly responsible for many theatrical and film interpretations throughout the 20th and 21st centuries.&lt;/p&gt;</content>
+<link type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" href="http://generation.feedbooks.com/book/88.atom"/>
+  <link type="application/atom+xml" rel="contents" href="http://generation.feedbooks.com/book/88/contents.atom"/>
+</entry>
