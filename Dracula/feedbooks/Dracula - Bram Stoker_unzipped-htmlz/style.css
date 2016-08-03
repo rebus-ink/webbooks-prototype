@@ -1,0 +1,217 @@
+.aboutauthor {
+    display: block;
+    text-align: left
+    }
+.also {
+    display: block;
+    padding-top: 5%;
+    text-align: left
+    }
+.body {
+    display: block
+    }
+.calibre {
+    display: block;
+    font-family: serif;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    oeb-column-number: 1;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre1 {
+    height: auto;
+    width: auto
+    }
+.calibre2 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    padding-top: 15%;
+    text-align: center
+    }
+.calibre3 {
+    display: block;
+    font-size: 0.75em;
+    font-weight: bold;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    text-align: center
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre6 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1em
+    }
+.calibre7 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre8 {
+    display: list-item
+    }
+.calibre9 {
+    font-style: italic
+    }
+.calibre10 {
+    color: #000;
+    text-decoration: none
+    }
+.calibre11 {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    padding-top: 0
+    }
+.calibre12 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 0
+    }
+.calibre13 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre14 {
+    display: block;
+    text-align: center
+    }
+.chapter {
+    display: block;
+    padding-top: 2em
+    }
+.chapterheader {
+    background-color: #FFF;
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: #000;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #000;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: block;
+    height: 60px;
+    line-height: 1.2;
+    margin-bottom: 20px
+    }
+.count {
+    background-color: #FFF;
+    float: left;
+    font-size: 94px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 100%;
+    margin-bottom: -20px;
+    margin-right: 18px;
+    margin-top: -14px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-transform: uppercase
+    }
+.count1 {
+    background-color: #FFF;
+    float: left;
+    font-size: 1.2em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 100%;
+    margin-bottom: -20px;
+    margin-right: 18px;
+    margin-top: -14px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-transform: uppercase
+    }
+.infos {
+    display: block;
+    font-size: 0.75em;
+    padding-top: 15%
+    }
+.logo {
+    display: block;
+    padding-top: 2%;
+    text-align: left
+    }
+.logo1 {
+    display: block;
+    padding-top: 30%;
+    text-align: center
+    }
+.texttitle {
+    display: block;
+    font-size: 1em;
+    text-align: center
+    }
+.translation {
+    background-color: #FFF;
+    float: left;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: -8px;
+    margin-top: 38px;
+    padding-bottom: 0;
+    padding-left: 5px;
+    padding-right: 16px;
+    padding-top: 0
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
