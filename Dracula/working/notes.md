@@ -1,7 +1,18 @@
 # Notes
-## Start
-How shall we begin?
-Is our starting point HTML5?
-The unzipped HTMLZ produced by Calibre is full of calibre-styles and no specified HTML version, but it preserves media and metadata.
+## Initial Goals
+The overall goal here is to end up with examples of of "minimal viable webbooks." However, as we are starting from scratch, from different backgrounds, experiences, with different tools and processes, we need to set some initial short term goals to get the first iterations going.
 
-Perhaps we take the Pando HTML5, put it in a folder, grab the cover.jpg, /images & metadata.opf from the HTMLZ and start from there?
+* Package : A simple Directory
+* Content: HTML5 files
+	* Content markup is cleanly structured ( _Hx, Sections, Pararaphs, etc_ … )
+	* Where necessary, Block elements are explicitly Class'ed
+	* All meaningful Block elements are uniquely identified ( _Chapter heads, Sections, Paragraphs, Figures, Blockquotes_ … )
+	* Optional: FrontBack Matter, Parts, Chapters are split into individual HTML5 files
+	* Images/, Styles/, Fonts/ etc… follow existing models ( _EPUB_ … )
+* ToC: HTML5 ( _a.k.a. "Indexes"_ )
+	* Default ( _as authored_ )
+	* example of Geographic ( _embedded map_ )
+	* example of Timeline ( _narrative and chronological_ )
+	* example of Personage ( _list, graph of relationships_ )
+
+What else?
